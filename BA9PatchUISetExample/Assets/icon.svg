@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1024px"
+	 height="1024px" viewBox="0 0 1024 1024" enable-background="new 0 0 1024 1024" xml:space="preserve">
+<g id="Background">
+	<rect fill="#5487ED" width="1024" height="1024"/>
+</g>
+<g id="Layer_4">
+	<text transform="matrix(1 0 0 1 393.8921 163.5015)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="60">Scaled in </tspan><tspan x="47.369" y="72" font-family="'MyriadPro-Regular'" font-size="60">X axis</tspan></text>
+	<text transform="matrix(1 0 0 1 393.8921 862.8896)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="60">Scaled in </tspan><tspan x="47.369" y="72" font-family="'MyriadPro-Regular'" font-size="60">X axis</tspan></text>
+	<text transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 306.3779 882.1621)" font-family="'MyriadPro-Regular'" font-size="60">Unscaled</text>
+	<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 130.0698 301.0664)" font-family="'MyriadPro-Regular'" font-size="60">Unscaled</text>
+	<text transform="matrix(0.7071 0.7071 -0.7071 0.7071 722.1641 139.6162)" font-family="'MyriadPro-Regular'" font-size="60">Unscaled</text>
+	<text transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 898.6133 730.7129)" font-family="'MyriadPro-Regular'" font-size="60">Unscaled</text>
+	<g>
+		<line fill="none" stroke="#FFFFFF" stroke-width="6" stroke-miterlimit="10" x1="320" y1="0" x2="320" y2="1024"/>
+		<line fill="none" stroke="#FFFFFF" stroke-width="6" stroke-miterlimit="10" x1="704" y1="0" x2="704" y2="1024"/>
+	</g>
+	<g>
+		<line fill="none" stroke="#FFFFFF" stroke-width="6" stroke-miterlimit="10" x1="0" y1="704" x2="1024" y2="704"/>
+		<line fill="none" stroke="#FFFFFF" stroke-width="6" stroke-miterlimit="10" x1="0" y1="320" x2="1024" y2="320"/>
+	</g>
+	<g id="Move">
+		<g id="move_x5F_alt1_x5F_32x32_1_">
+			<g opacity="0.35">
+				<polygon points="515,563 531,547 531,595 563,595 515,643 467,595 499,595 499,547 				"/>
+				<polygon points="515,467.496 499,483 499,435 467,435 515,387 563,435 531,435 531,483 				"/>
+				<polygon points="467,515 483,531 435,531 435,563 387,515 435,467 435,499 483,499 				"/>
+				<polygon points="562.5,515 547,499 595,499 595,467 643,515 595,563 595,531 547,531 				"/>
+			</g>
+			<g>
+				<g>
+					<g>
+						<polygon fill="#FFFFFF" points="512,560 528,544 528,592 560,592 512,640 464,592 496,592 496,544 						"/>
+						<polygon fill="#FFFFFF" points="512,464.496 496,480 496,432 464,432 512,384 560,432 528,432 528,480 						"/>
+						<polygon fill="#FFFFFF" points="464,512 480,528 432,528 432,560 384,512 432,464 432,496 480,496 						"/>
+						<polygon fill="#FFFFFF" points="559.5,512 544,496 592,496 592,464 640,512 592,560 592,528 544,528 						"/>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="move_x5F_alt1_x5F_32x32_3_">
+			<g opacity="0.35">
+				<polygon points="274.853,564.249 290.603,548.5 290.603,595.75 322.103,595.75 274.853,643 227.603,595.75 259.103,595.75 
+					259.103,548.5 				"/>
+				<polygon points="274.853,470.239 259.103,485.5 259.103,438.25 227.603,438.25 274.853,391 322.103,438.25 290.603,438.25 
+					290.603,485.5 				"/>
+			</g>
+			<g>
+				<g>
+					<g>
+						<polygon fill="#FFFFFF" points="271.853,561.249 287.603,545.5 287.603,592.75 319.103,592.75 271.853,640 224.603,592.75 
+							256.103,592.75 256.103,545.5 						"/>
+						<polygon fill="#FFFFFF" points="271.853,467.239 256.103,482.5 256.103,435.25 224.603,435.25 271.853,388 319.103,435.25 
+							287.603,435.25 287.603,482.5 						"/>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="move_x5F_alt1_x5F_32x32_4_">
+			<g opacity="0.35">
+				<polygon points="744.698,564.249 760.448,548.5 760.448,595.75 791.948,595.75 744.698,643 697.448,595.75 728.948,595.75 
+					728.948,548.5 				"/>
+				<polygon points="744.698,470.239 728.948,485.5 728.948,438.25 697.448,438.25 744.698,391 791.948,438.25 760.448,438.25 
+					760.448,485.5 				"/>
+			</g>
+			<g>
+				<g>
+					<g>
+						<polygon fill="#FFFFFF" points="741.698,561.249 757.448,545.5 757.448,592.75 788.948,592.75 741.698,640 694.448,592.75 
+							725.948,592.75 725.948,545.5 						"/>
+						<polygon fill="#FFFFFF" points="741.698,467.239 725.948,482.5 725.948,435.25 694.448,435.25 741.698,388 788.948,435.25 
+							757.448,435.25 757.448,482.5 						"/>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g opacity="0.35">
+				<polygon points="465.982,767.99 481.982,783.99 433.982,783.99 433.982,815.99 385.982,767.99 433.982,719.99 433.982,751.99 
+					481.982,751.99 				"/>
+				<polygon points="561.482,767.99 545.982,751.99 593.982,751.99 593.982,719.99 641.982,767.99 593.982,815.99 593.982,783.99 
+					545.982,783.99 				"/>
+			</g>
+			<g>
+				<g>
+					<polygon fill="#FFFFFF" points="462.982,764.99 478.982,780.99 430.982,780.99 430.982,812.99 382.982,764.99 430.982,716.99 
+						430.982,748.99 478.982,748.99 					"/>
+					<polygon fill="#FFFFFF" points="558.482,764.99 542.982,748.99 590.982,748.99 590.982,716.99 638.982,764.99 590.982,812.99 
+						590.982,780.99 542.982,780.99 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g opacity="0.35">
+				<polygon points="465.982,261.912 481.982,277.912 433.982,277.912 433.982,309.912 385.982,261.912 433.982,213.912 
+					433.982,245.912 481.982,245.912 				"/>
+				<polygon points="561.482,261.912 545.982,245.912 593.982,245.912 593.982,213.912 641.982,261.912 593.982,309.912 
+					593.982,277.912 545.982,277.912 				"/>
+			</g>
+			<g>
+				<g>
+					<polygon fill="#FFFFFF" points="462.982,258.912 478.982,274.912 430.982,274.912 430.982,306.912 382.982,258.912 
+						430.982,210.912 430.982,242.912 478.982,242.912 					"/>
+					<polygon fill="#FFFFFF" points="558.482,258.912 542.982,242.912 590.982,242.912 590.982,210.912 638.982,258.912 
+						590.982,306.912 590.982,274.912 542.982,274.912 					"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<text transform="matrix(0 -1 1 0 150.0044 661.3193)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="72">Scaled in </tspan><tspan x="57.923" y="86.4" font-family="'MyriadPro-Regular'" font-size="72">Y axis</tspan></text>
+	<text transform="matrix(-8.979319e-11 1 -1 -8.979319e-11 870.9844 365.8604)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="72">Scaled in </tspan><tspan x="57.923" y="86.4" font-family="'MyriadPro-Regular'" font-size="72">Y axis</tspan></text>
+</g>
+</svg>
