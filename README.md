@@ -1,13 +1,16 @@
 # BA9PatchUISet
+
 9 Patchable UI elements for iOS
+
+It makes easy to setup 9-patch ui elements inside Interface Builder.
 
 Read more about [9-patch image files] (http://developer.android.com/tools/help/draw9patch.html)
 
+## Screenshots
+![alt text](https://raw.githubusercontent.com/barisatamer/BA9PatchUISet/master/Screenshots/sc_01.png "Screenshot 01")
+
 ## Requirements
 - iOS 6.0 (I haven't tested it on previous versions)
-
-## Screenshots
-[![](Screenshots/sc01.png)](Screenshots/sc01.png)
 
 ## Installation
 Copy the BA9PatchUISet folder to your project.
