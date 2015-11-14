@@ -24,4 +24,4 @@ In Interface Builder, change your item's custom class to the
 Set top, left, bottom, right edge insets in Interface Builder's Attributes Inspector 
 
 ## License
-This code is distributed under the terms and conditions of the [MIT license](LICENSE). 
+This code is distributed under the terms and conditions of the [MIT license](LICENSE.md). 
